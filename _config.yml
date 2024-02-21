@@ -53,11 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Python</mark>, <mark>Eating Pizza</mark>
 
 content:
-  - title: Technical Experience # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - Coding Languages: Highly advanced within Python, basic knowledge of R and PySpark
-      - Environments : Compotent within GCP CLoud infastructures, Developer environments like VSCode, basic knolwedge of Databricks
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -135,6 +130,12 @@ content:
         Royal Albert Hall and have been a finalist at the All-England UK Finals, UK Tap Awards and UK Ballet
         Awards.
       - Cinematography - I am an avid movie watcher and love to talk films and going into the meaning behind artistic choices
+      
+  - title: Technical Experience # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Coding Languages: Highly advanced within Python, basic knowledge of R and PySpark
+      - Environments : Compotent within GCP CLoud infastructures, Developer environments like VSCode, basic knolwedge of Databricks
 
 
 # Footer
