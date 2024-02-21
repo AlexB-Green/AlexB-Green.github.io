@@ -61,10 +61,13 @@ content:
         sub_title: Senior Measurement Innovation Executive
         caption: March 2023 - present
         quote: >
-            Easiest to see through the lens of the ITV behaviours where three behaviours in particular stand out. People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
+          People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved into having increased responsibility of projects: leading them as well as project managing those projects. I also gained more responsibility in the upkeep and best pratice for Google CLoud Platform. Some noteable work examples: built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and shows. Led client executions of Geo experimentations to show incremental uplift as well as executing power analysis to plan the experiments. Built a academic-style research study utilising regression-based models to show how different dayaprts carry more effectivenss at driving online traffic.
-
+          My role evolved into having increased responsibility of projects: leading them as well as project managing those projects. I also gained more responsibility in the upkeep and best pratice for Google CLoud Platform. Some noteable work examples: 
+          - built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and shows
+          - Led client executions of Geo experimentations to show incremental uplift as well as executing power analysis to plan the experiments
+          - Built a academic-style research study utilising regression-based models to show how different dayaprts carry more effectivenss at driving online traffic
+          - Assited the build of a new first-party dataset within the business and led the analytical work that focused on use-cases for this dataset
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -73,6 +76,8 @@ content:
         caption: March 2022 - March 2023
         description: |
           My role expanded to more repsosnbility on the developer side as well as helping to train new team members as the team expanded. Some notable work examples:
+          - Conducted a cross-business analysis into the impact of adverts upon viewing which was vital for the launch of the new streaming service
+          - Assisted the devlopment of an advertising product that helps automate contextual targetting 
 
       - layout: left
         title: ITV
@@ -81,7 +86,9 @@ content:
         sub_title: Data Science Apprentice
         caption: June 2021 - March 2022
         description: |
-          My role focused on helping to develop measurement tools for clients to help surface the impact of TV ads, creating analytical reports utilising first party data as well as helping guide third party providers in executing measurement pilots. Some notable work examples being: I built a tool that utilises nlp to look at words and their pravalence in shows, helped build a tool that shows advertiser impressions against a competitor set, 
+          My role focused on helping to develop tools for clients to help measure the effect of their TV ads, creating analytical reports utilising first party data to prove the value of TV as well as helping to guide third party providers in executing measurement pilots that prove the value that TV creates. Some notable work examples are: 
+          - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows
+          - Assisted building a tool that shows advertiser impressions against a competitor set
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,10 +97,10 @@ content:
         title: Westcliff High School for Girls
         caption: 2018-2020
         description: | # this will include new lines to allow paragraphs
-          A Level Maths : A*, 
-          A Level Further Maths : A, 
-          A Level Physics : B, 
-          A Level Chemistry : C 
+          A-Level Maths : A*, 
+          A-Level Further Maths : A, 
+          A-Level Physics : B, 
+          A-Level Chemistry : C 
 
       - layout: left
         title: Eastwood Academy
