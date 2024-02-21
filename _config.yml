@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-- title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -93,10 +93,10 @@ content:
         title: Westcliff High School for Girls
         caption: 2018-2020
         description: | # this will include new lines to allow paragraphs
-          A-Level Maths : A*, 
-          A-Level Further Maths : A, 
-          A-Level Physics : B,
-          A-Level Chemistry : C
+          A Level Maths : A*
+          A Level Further Maths : A
+          A Level Physics : B
+          A Level Chemistry : C
 
       - layout: left
         title: Eastwood Academy
