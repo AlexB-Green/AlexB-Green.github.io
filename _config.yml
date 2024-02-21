@@ -30,10 +30,10 @@ github_username:  alexb-green
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: ITV Adlabs
-  icon: fas fa-globe
-  url: https://www.itvmedia.co.uk/itv-adlabs/insight
+#additional_links:
+#- title: ITV Adlabs
+# icon: fas fa-globe
+ # url: https://www.itvmedia.co.uk/itv-adlabs/insight
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Technical Experience # Title for the section
     layout: text # Type of content section (list/text)
-    content:
+    content: |
       - Coding Languages: Highly advanced within Python, basic knowledge of R and PySpark
       - Environments : Compotent within GCP CLoud infastructures, Developer environments like VSCode, basic knolwedge of Databricks
 
@@ -142,7 +142,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: alexb-green/alexb-green.github.io
 
 sass:
   sass_dir: _sass
