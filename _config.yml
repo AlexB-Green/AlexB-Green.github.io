@@ -30,10 +30,10 @@ github_username:  alexb-green
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: ITV Adlabs
-# icon: fas fa-globe
- # url: https://www.itvmedia.co.uk/itv-adlabs/insight
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,60 +50,41 @@ about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Alex and I'm a Senior Measurement Innovation Executive at ITV. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark>, <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+- title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
         # link_text: boringcompany.com
-        sub_title: Measurement Innovation Executive
-        caption: March 2022 - March 2021
+        sub_title: Senior Measurement Innovation Executive
+        caption: March 2023 - present
         quote: >
-            Easiest to see through the lens of the ITV behaviours where three behaviours in particular stand out. People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed        description: | # this will include new lines to allow paragraphs
+            Easiest to see through the lens of the ITV behaviours where three behaviours in particular stand out. People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
           My role focuses 
-
-
-      - layout: left
-          title: ITV
-          link: https://www.itvplc.com/
-          # link_text: boringcompany.com
-          sub_title: Measurement Innovation Executive
-          caption: March 2022 - March 2021
-          quote: >
-              Easiest to see through the lens of the ITV behaviours where three behaviours in particular stand out. People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed        description: | # this will include new lines to allow paragraphs
-          description: |
-            My role focuses 
-
-      - layout: left
-          title: ITV
-          link: https://www.itvplc.com/
-          # link_text: boringcompany.com
-          sub_title: Data Science Apprentice
-          caption: June 2021 - March 2022
-          quote: >
-
-          description: |
-            My role focused on building upon my knowledge assisting wider teams in measurement problems
-
-
-      - layout: left
-        title: David LLoyd
-        link: https://www.itvplc.com/
-        # link_text: boringcompany.com
-        sub_title: DL Team Member
-        caption: January 2018 - September 2020
-        quote: >
-          Alex is hardworking in everything he does
-        description: | # this will include new lines to allow paragraphs
-            My role included teaching classes, member interaction and collating health and safety routines. Required knowledge of the running of a leisure business, understanding club procedures as well as
-            class uptake. Was given responsibilities in training other new staff through shadow sessions. Achieved constant positive customer feedback. 
-            Competently managed a part-time job whilst studying for GCSEs and A-levels
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -126,26 +107,21 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Data Science,  some of my other interests and hobbies are:
-      - Dancing: I have danced since I was young, and my passion is contemporary dance with elements of street and
-        modern. I have danced competitively and won the UK Janet Cram Awards (2012) and have danced in the
-        Royal Albert Hall and have been a finalist at the All-England UK Finals, UK Tap Awards and UK Ballet
-        Awards.
-      - Cinematography - I am an avid movie watcher and love to talk films and going into the meaning behind artistic choices
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: Technical Experience # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - Coding Languages: Highly advanced within Python, basic knowledge of R and PySpark
-      - Environments : Compotent within GCP CLoud infastructures, Developer environments like VSCode, basic knolwedge of Databricks
-
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: alexb-green/alexb-green.github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -153,8 +129,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-
 
 
 
