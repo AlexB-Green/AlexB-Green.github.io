@@ -69,25 +69,27 @@ content:
           My role focuses 
 
 
-    - layout: left
-        title: ITV
-        link: https://www.itvplc.com/
-        # link_text: boringcompany.com
-        sub_title: Measurement Innovation Executive
-        caption: March 2022 - March 2021
-        quote: >
-            Easiest to see through the lens of the ITV behaviours where three behaviours in particular stand out. People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed        description: | # this will include new lines to allow paragraphs
-        description: |
-          My role focuses 
+      - layout: left
+          title: ITV
+          link: https://www.itvplc.com/
+          # link_text: boringcompany.com
+          sub_title: Measurement Innovation Executive
+          caption: March 2022 - March 2021
+          quote: >
+              Easiest to see through the lens of the ITV behaviours where three behaviours in particular stand out. People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed        description: | # this will include new lines to allow paragraphs
+          description: |
+            My role focuses 
 
       - layout: left
-        title: ITV
-        link: https://www.itvplc.com/
-        # link_text: boringcompany.com
-        sub_title: Data Science Apprentice
-        caption: June 2021 - March 2022
-        description: |
-          My role focused on building upon my knowledge assisting wider teams in measurement problems
+          title: ITV
+          link: https://www.itvplc.com/
+          # link_text: boringcompany.com
+          sub_title: Data Science Apprentice
+          caption: June 2021 - March 2022
+          quote: >
+
+          description: |
+            My role focused on building upon my knowledge assisting wider teams in measurement problems
 
 
       - layout: left
@@ -130,7 +132,7 @@ content:
         Royal Albert Hall and have been a finalist at the All-England UK Finals, UK Tap Awards and UK Ballet
         Awards.
       - Cinematography - I am an avid movie watcher and love to talk films and going into the meaning behind artistic choices
-      
+
   - title: Technical Experience # Title for the section
     layout: text # Type of content section (list/text)
     content: |
