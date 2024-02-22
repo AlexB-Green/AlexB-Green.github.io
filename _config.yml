@@ -64,11 +64,11 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some noteable work examples: 
+          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some notable work examples: 
           - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media panning purposes
-          - Led client Geo experimentations from planning of the experiments through the use of power analysis to execution of the experiments through synthetic control methods
+          - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods
           - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
-          - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation
+          - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -77,7 +77,7 @@ content:
         caption: March 2022 - March 2023
         description: |
           My role expanded to having increased developer responsibility as well as led the training of new team members with the expansion of the team. Some notable work examples:
-          - Conducted a cross-business analysis into the impact of adverts upon viewing which was vital for the launch of the new streaming service
+          - Conducted a cross-business analysis into the impact of adverts volumes upon viewing which was vital for the launch of the new streaming service
           - Assisted the development of an advertising product that helps automate contextual targetting
           - Built forecasting models looking at viewing figures for new & returning shows
 
@@ -90,8 +90,8 @@ content:
         description: |
           My role focused on helping to develop tools for clients to help measure the effect of their TV ads, creating analytical reports utilising first party data to prove the value of TV as well as helping to guide third party providers in executing measurement pilots that prove the value that TV creates. Some notable work examples are: 
           - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows to help with show targetting
-          - Assisted building a tool that shows advertiser impressions against a competitor set
-          - Create automated pipelines for pulling in first-party data and querying the data
+          - Assisted building a tool that visualises advertiser impressions against a competitor set they decide upon
+          - Created automated pipelines for pulling in first-party data and querying the data
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -127,7 +127,7 @@ content:
                   modern. I have danced competitively and won the UK Janet Cram Awards (2012) and have danced in the
                   Royal Albert Hall and have been a finalist at the All-England UK Finals, UK Tap Awards and UK Ballet
                   Awards.
-      - Film: I have a long-standing interest to cinema and films. In particular, sound design and cinematography
+      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography
 
 # Footer
 footer_show_references: true
