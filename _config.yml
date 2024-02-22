@@ -22,7 +22,7 @@ github_username:  alexb-green
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: alex-green-094867209
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ github_username:  alexb-green
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+# url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analysis, Implementation of Data Science technqiues,deployment and model building. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish.
+  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
+  push myself to learn and build upon my current skillset.
 
 content:
   - title: Experience # Title for the section
@@ -63,11 +64,11 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved into having increased responsibility of projects: leading them as well as project managing those projects. I also gained more responsibility in the upkeep and best pratice for Google CLoud Platform. Some noteable work examples: 
-          - built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and shows
-          - Led client executions of Geo experimentations to show incremental uplift as well as executing power analysis to plan the experiments
-          - Built a academic-style research study utilising regression-based models to show how different dayaprts carry more effectivenss at driving online traffic
-          - Assited the build of a new first-party dataset within the business and led the analytical work that focused on use-cases for this dataset
+          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some noteable work examples: 
+          - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media panning purposes
+          - Led client Geo experimentations from planning of the experiments through the use of power analysis to execution of the experiments through synthetic control methods
+          - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
+          - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -75,9 +76,10 @@ content:
         sub_title: Measurement Innovation Executive
         caption: March 2022 - March 2023
         description: |
-          My role expanded to more repsosnbility on the developer side as well as helping to train new team members as the team expanded. Some notable work examples:
+          My role expanded to having increased developer responsibility as well as led the training of new team members with the expansion of the team. Some notable work examples:
           - Conducted a cross-business analysis into the impact of adverts upon viewing which was vital for the launch of the new streaming service
-          - Assisted the devlopment of an advertising product that helps automate contextual targetting 
+          - Assisted the development of an advertising product that helps automate contextual targetting
+          - Built forecasting models looking at viewing figures for new & returning shows
 
       - layout: left
         title: ITV
@@ -87,8 +89,9 @@ content:
         caption: June 2021 - March 2022
         description: |
           My role focused on helping to develop tools for clients to help measure the effect of their TV ads, creating analytical reports utilising first party data to prove the value of TV as well as helping to guide third party providers in executing measurement pilots that prove the value that TV creates. Some notable work examples are: 
-          - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows
+          - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows to help with show targetting
           - Assisted building a tool that shows advertiser impressions against a competitor set
+          - Create automated pipelines for pulling in first-party data and querying the data
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,7 +116,7 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages: Highly advanced in Python, basic knowledge of R and Pyspark
+      - Programming Languages: Highly advanced in Python, Highly advanced in SQL and  basic knowledge of R and Pyspark
       - Environments: Competent in both cloud infastructures like GCP and developer environments like VSCode
       
   - title: A Little More About Me
