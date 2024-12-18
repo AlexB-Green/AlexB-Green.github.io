@@ -98,6 +98,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+
+        - layout: left
+        title: York St.John University
+        caption: 2021-2024
+        description: | # this will include new lines to allow paragraphs
+          BSc Honours Data Science : 1st Class Honours
+          
       - layout: left
         title: Westcliff High School for Girls
         caption: 2018-2020
@@ -128,7 +136,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
       - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time
-      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography. I attend a film club every week where I engage in group discussions analysing the film.
+      - Film: I have a long-standing interest in cinema and films; I attend a film club every week where I engage in group discussions analysing the art form
 
 # Footer
 footer_show_references: true
