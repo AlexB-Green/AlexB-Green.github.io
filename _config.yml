@@ -100,7 +100,7 @@ content:
     content:
 
 
-        - layout: left
+      - layout: left
         title: York St.John University
         caption: 2021-2024
         description: | # this will include new lines to allow paragraphs
