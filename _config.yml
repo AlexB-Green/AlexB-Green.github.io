@@ -1,4 +1,4 @@
-# Site
+onal # Site
 repository: alexb-green/alexb-green.github.io
 favicon: images/favicon.ico
 
@@ -9,7 +9,8 @@ version: 2
 name: Alex Green
 title: Senior Measurement Innovation Executive
 email: alex.byron.green@gmail.com
-website: https://alexb-green.github.io/
+personal website: https://alexb-green.github.io/
+linkedin: https://www.linkedin.com/in/alex-green-094867209/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +49,7 @@ linkedin_username: alex-green-094867209
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
+  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation with an expertise in python. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
   push myself to learn and build upon my current skillset.
 
 content:
@@ -69,7 +70,7 @@ content:
           - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
           - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client Addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions.
+          - Led client Addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -126,8 +127,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Sports: Enthusiastic about running and yoga. I attend many running events and pratice the art of meditation in my free time.
-      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography
+      - Sports: Enthusiastic about running and yoga. I attend many running events and pratice the art of meditation in my free time
+      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography. I attend a film club every week where i attend group discussions analysing the film
 
 # Footer
 footer_show_references: true
