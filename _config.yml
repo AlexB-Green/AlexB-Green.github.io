@@ -65,12 +65,12 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some notable work examples: 
-          - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media panning purposes
+          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsibility in providing the best pratice for how we work with GCP. Some notable work examples: 
+          - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media planning purposes
           - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
           - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client Addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions
+          - Led client addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -127,8 +127,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Sports: Enthusiastic about running and yoga. I attend many running events and pratice the art of meditation in my free time
-      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography. I attend a film club every week where i attend group discussions analysing the film
+      - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time
+      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography. I attend a film club every week where I engage in group discussions analysing the film.
 
 # Footer
 footer_show_references: true
