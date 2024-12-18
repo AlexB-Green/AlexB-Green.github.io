@@ -66,9 +66,10 @@ content:
         description: |
           My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some notable work examples: 
           - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media panning purposes
-          - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods
+          - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
           - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
+          - Led client Addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions.
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -109,24 +110,23 @@ content:
         title: Eastwood Academy
         caption: 2013-2018
         description: | # this will include new lines to allow paragraphs
-          GCSEs - 6 x A**(Grade 9s), 5 x A*(Grade 8s)
+          GCSEs - 6 x A**(Grade 9s), 5 x A*(Grade 8s) including Maths & English Language
 
 
 
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages: Highly advanced in Python, Highly advanced in SQL and  basic knowledge of R and Pyspark
-      - Environments: Competent in both cloud infastructures like GCP and developer environments like VSCode
+      - Programming Languages: Python (including pandas, scikit-learn), SQL ( including PostgreSQL, BigQuery), R (including ggplot2, tidyverse, tidymodels)
+      - Environments: Google Cloud Platform, AWS, Databricks, VSCode, Excel (Advanced)
+      - Analytics: Regression modeling, clustering algorithms, synthetic control methods, forecast modelling
+      
       
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Dancing: I have danced since I was young, and my passion is contemporary dance with elements of street and
-                  modern. I have danced competitively and won the UK Janet Cram Awards (2012) and have danced in the
-                  Royal Albert Hall and have been a finalist at the All-England UK Finals, UK Tap Awards and UK Ballet
-                  Awards.
+      - Sports: Enthusiastic about running and yoga. I attend many running events and pratice the art of meditation in my free time.
       - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography
 
 # Footer
