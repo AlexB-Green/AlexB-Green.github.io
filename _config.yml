@@ -1,4 +1,4 @@
-onal # Site
+# Site
 repository: alexb-green/alexb-green.github.io
 favicon: images/favicon.ico
 
@@ -9,8 +9,7 @@ version: 2
 name: Alex Green
 title: Senior Measurement Innovation Executive
 email: alex.byron.green@gmail.com
-personal website: https://alexb-green.github.io/
-linkedin: https://www.linkedin.com/in/alex-green-094867209/
+website: https://alexb-green.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -49,7 +48,7 @@ linkedin_username: alex-green-094867209
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation with an expertise in python. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
+  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
   push myself to learn and build upon my current skillset.
 
 content:
@@ -65,12 +64,12 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsibility in providing the best pratice for how we work with GCP. Some notable work examples: 
-          - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media planning purposes
+          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some notable work examples: 
+          - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media panning purposes
           - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
           - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions
+          - Led client Addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions.
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -98,14 +97,6 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
-
-      - layout: left
-        title: York St John University
-        caption: 2021-2024
-        description: | # this will include new lines to allow paragraphs
-          BSc Honours Data Science : 1st Class Honours
-          
       - layout: left
         title: Westcliff High School for Girls
         caption: 2018-2020
@@ -135,8 +126,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time
-      - Film: I have a long-standing interest in cinema and films; I attend a film club every week where I engage in group discussions analysing the art form
+      - Sports: Enthusiastic about running and yoga. I attend many running events and pratice the art of meditation in my free time.
+      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography
 
 # Footer
 footer_show_references: true
