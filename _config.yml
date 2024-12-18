@@ -97,6 +97,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+
+      - layout: left
+        title: York St John University
+        caption: 2021-2024
+        description: | # this will include new lines to allow paragraphs
+          BSc(Honours) Data Science : 1st Class Honours
+
       - layout: left
         title: Westcliff High School for Girls
         caption: 2018-2020
