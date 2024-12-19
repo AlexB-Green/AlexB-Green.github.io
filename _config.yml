@@ -147,12 +147,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time
-      - Film: I have a deep appreciation for cinema and attend a weekly film club, where I engage in discussions and analysis of films from various genres and eras.
-      - Art: I enjoy being creative outside of work with a focus on portraiture and life drawing
-
-# Footer
+      Alongside my interests in Data, some of my other interests and hobbies are:
+      - Sports: I’m an avid runner and yoga enthusiast. I regularly participate in running events and practice meditation to maintain focus and mindfulness.
+      - Film: I have a deep appreciation for cinema and attend a weekly film club, where I engage in discussions and analysis of films from various genres and eras
+      - Art: Creativity plays an important role in my life - in particular I enjoy portraiture and life drawing
 footer_show_references: true
 # references_title: References on request (Override references text)
 
