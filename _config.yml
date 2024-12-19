@@ -64,11 +64,11 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved to include increased project responsibility, where I took the lead on end-to-end processes, from delegation to project management. I also played a key role in establishing best practices for how the team should leverage cloud platforms like Google Cloud. Some notable work examples include:
-          - Developed a content clustering tool using machine learning algorithms to segment users and products for targeted strategies.
-          - Designed an academic-style research study using regression models to analyze the impact of different time periods on driving web traffic, providing actionable insights.
-          - Contributed to the creation of a new first-party dataset, leading the analytical work to implement its use cases within the organization.
-          - Led experimental pilots for clients, applying power analysis to define control group sizes and executing A/B testing to assess the effectiveness of various strategies.
+         I took on increased project responsibility, leading end-to-end processes and establishing best practices for using cloud platforms to deliver scalable data-driven solutions.
+          - Developed a machine learning-based content clustering tool to segment users and products, enabling targeted strategies and optimizing resource allocation.
+          - Designed a regression-based research study to analyze the impact of time periods on web traffic, providing actionable insights to improve digital engagement strategies.
+          - Led the analytical work for a new first-party dataset, implementing use cases to unlock revenue opportunities and enhance client reporting capabilities.
+          - Executed experimental pilots for clients, applying power analysis to define control group sizes and conducting A/B tests to evaluate strategy effectiveness.
 
 
       - layout: left
@@ -78,11 +78,12 @@ content:
         sub_title: Measurement Innovation Executive
         caption: March 2022 - March 2023
         description: |
-         My role expanded to include increased client responsibility, where I worked with a diverse range of clients and used the analytical tools developed by the team to create compelling insights on how their marketing strategies impacted their business outcomes. Additionally, I took on more responsibility in training new team members following the expansion of our team. Some notable work examples include:
-          - Conducted a cross-domain analysis on the relationship between advertising volumes and audience engagement, which was crucial for the launch of a new service.
-          - Assisted in the development of a product to automate contextual targeting, improving advertising efficiency.
-          - Built forecasting models to predict engagement metrics for new and returning content, enhancing decision-making processes.
-          - Led experimental studies, including planning and executing power analysis and synthetic control methods, to evaluate the impact of marketing strategies. I also presented findings and actionable insights to clients.
+         My responsibilities expanded to include managing client relationships and developing new analytical tools to improve marketing strategy evaluation and decision-making processes.
+          - Conducted cross-domain analysis of advertising volumes and audience engagement, providing risk-based assessments critical to launching new services.
+          - Designed forecasting models using regression analysis to predict engagement metrics for content, enhancing decision-making and mitigating uncertainty.
+          - Assisted in developing an automation tool for contextual targeting, improving advertising efficiency and contributing to cost control measures.
+          - Led experimental studies, utilizing power analysis and synthetic control methods, to evaluate the impact of marketing strategies and generate data-driven client insights.
+          - Trained new team members, streamlining onboarding processes and ensuring consistency in analytical methods across the team.
 
 
 
@@ -93,10 +94,11 @@ content:
         sub_title: Data Science Apprentice
         caption: June 2021 - March 2022
         description: |
-          My role focused on developing analytical tools and reports to measure the impact of advertising on business outcomes. I utilized first-party data to generate insights that demonstrated the value of marketing efforts to clients. Additionally, I collaborated with third-party providers to guide the execution of measurement pilots, helping to quantify and prove the effectiveness of advertising strategies. Some notable work examples are: 
-          - Developed a tool using Natural Language Processing (NLP) to analyze word prevalence in content, aiding in targeted audience segmentation.
-          - Assisted in creating a tool to visualize key metrics, comparing advertiser performance against competitor benchmarks defined by clients.
-          - Built automated data pipelines to extract, query, and visualize first-party data, streamlining the reporting process through a dynamic dashboard.
+         In this role, I focused on developing analytical tools and processes to measure the impact of advertising on business outcomes, leveraging first-party data and collaborating with third-party providers to deliver actionable insights. 
+          - Built automated data pipelines to extract, query, and visualize first-party data, streamlining reporting processes and enhancing operational efficiency
+          - Created a visualization tool to compare advertiser performance against client-defined benchmarks, supporting strategic planning and competitive positioning.
+          - Collaborated with third-party providers on measurement pilots, applying statistical methods to quantify the effectiveness of advertising strategies and assess return on investment (ROI).
+          - Developed a Natural Language Processing (NLP) tool to analyze content and optimize audience segmentation, providing insights for targeted marketing strategies.
 
 
   - title: Education # Title for the section
@@ -131,9 +133,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming Languages: 
-        - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
-        - SQL (Expert): Advanced querying, optimization, and database management (PostgreSQL, BigQuery).
-        - R (Intermediate): Data visualization (ggplot2), data wrangling (tidyverse), and statistical modeling (tidymodels).
+        - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines
+        - SQL (Expert): Advanced querying, optimization, and database management (PostgreSQL, BigQuery)
+        - R (Intermediate): Data visualization (ggplot2), data wrangling (tidyverse), and statistical modeling (tidymodels)
       - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode
       - Data Analysis & Visualization Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic)
 
@@ -147,7 +149,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
       - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time
-      - Film: I have a long-standing interest in cinema and films. I attend a film club every week where I engage in film analysis discussions
+      - Film: I have a deep appreciation for cinema and attend a weekly film club, where I engage in discussions and analysis of films from various genres and eras.
       - Art: I enjoy being creative outside of work with a focus on portraiture and life drawing
 
 # Footer
