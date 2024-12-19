@@ -64,12 +64,13 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsibility in providing best practice for how we work with Google Cloud Platform. Some notable work examples: 
-          - Built a content clustering tool that utilises clustering algorithms to build a segmentation of viewers and TV shows for media planning purposes
-          - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
-          - Built an academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online website traffic
-          - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client site lift pilots, utilising power analysis models to create control group sizes and executing the experiment via A/B Testing methods
+          My role evolved to include increased project responsibility, where I took the lead on end-to-end processes, from delegation to project management. I also played a key role in establishing best practices for how the team should leverage cloud platforms like Google Cloud. Some notable work examples include:
+          - Developed a content clustering tool using machine learning algorithms to segment users and products for targeted strategies.
+          - Designed an academic-style research study using regression models to analyze the impact of different time periods on driving web traffic, providing actionable insights.
+          - Contributed to the creation of a new first-party dataset, leading the analytical work to implement its use cases within the organization.
+          - Led experimental pilots for clients, applying power analysis to define control group sizes and executing A/B testing to assess the effectiveness of various strategies.
+
+
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -77,10 +78,13 @@ content:
         sub_title: Measurement Innovation Executive
         caption: March 2022 - March 2023
         description: |
-          My role expanded to having increased developer responsibility as well as the training of new team members following the expansion of the team. Some notable work examples:
-          - Conducted a cross-business domain analysis into the impact of advertisement volumes upon viewing which was vital for the launch of the new streaming service
-          - Assisted the development of an advertising product that helps automate contextual targeting
-          - Built forecasting models looking at viewing figures for new & returning shows
+         My role expanded to include increased client responsibility, where I worked with a diverse range of clients and used the analytical tools developed by the team to create compelling insights on how their marketing strategies impacted their business outcomes. Additionally, I took on more responsibility in training new team members following the expansion of our team. Some notable work examples include:
+          - Conducted a cross-domain analysis on the relationship between advertising volumes and audience engagement, which was crucial for the launch of a new service.
+          - Assisted in the development of a product to automate contextual targeting, improving advertising efficiency.
+          - Built forecasting models to predict engagement metrics for new and returning content, enhancing decision-making processes.
+          - Led experimental studies, including planning and executing power analysis and synthetic control methods, to evaluate the impact of marketing strategies. I also presented findings and actionable insights to clients.
+
+
 
       - layout: left
         title: ITV
@@ -89,10 +93,11 @@ content:
         sub_title: Data Science Apprentice
         caption: June 2021 - March 2022
         description: |
-          My role focused on helping to develop tools for clients to help measure the effect of their TV ads, creating analytical reports utilising first party data to prove the value of TV as well as helping to guide third party providers in executing measurement pilots that prove the value that TV creates. Some notable work examples are: 
-          - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows to help with show targetting
-          - Assisted building a tool that visualises advertiser impressions against a competitor set a client decides upon
-          - Created automated pipelines for pulling in first-party data, querying the data and outputting the results into a dashboard
+          My role focused on developing analytical tools and reports to measure the impact of advertising on business outcomes. I utilized first-party data to generate insights that demonstrated the value of marketing efforts to clients. Additionally, I collaborated with third-party providers to guide the execution of measurement pilots, helping to quantify and prove the effectiveness of advertising strategies. Some notable work examples are: 
+          - Developed a tool using Natural Language Processing (NLP) to analyze word prevalence in content, aiding in targeted audience segmentation.
+          - Assisted in creating a tool to visualize key metrics, comparing advertiser performance against competitor benchmarks defined by clients.
+          - Built automated data pipelines to extract, query, and visualize first-party data, streamlining the reporting process through a dynamic dashboard.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
