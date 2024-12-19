@@ -48,7 +48,7 @@ linkedin_username: alex-green-094867209
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
+  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have experience in Data Analytics, Data Science and Client Consultation with advanced coding capabilties. Throughout my career I have shown enthusiasm, teamwork and diligence in everything I endeavour to accomplish and I always
   push myself to learn and build upon my current skillset.
 
 content:
@@ -69,7 +69,7 @@ content:
           - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
           - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client Addressable lift pilots, utilsing 1:1 ip matching to look at incremental uplift solutions.
+          - Led client Addressable lift pilots, utilsing power models to create control group sizes and executing the experiment via A/B Testing
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -103,7 +103,7 @@ content:
         title: York St John University
         caption: 2021-2024
         description: | # this will include new lines to allow paragraphs
-          BSc(Honours) Data Science : 1st Class Honours
+          BSc (Honours) Data Science : 1st Class Honours
 
       - layout: left
         title: Westcliff High School for Girls
@@ -125,17 +125,24 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages: Python (including pandas, scikit-learn), SQL ( including PostgreSQL, BigQuery), R (including ggplot2, tidyverse, tidymodels)
-      - Environments: Google Cloud Platform, AWS, Databricks, VSCode, Excel (Advanced)
-      - Analytics: Regression modeling, clustering algorithms, synthetic control methods, forecast modelling
+      - Programming Languages: 
+        - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
+        - SQL (Expert): Advanced querying, optimization, and database management (PostgreSQL, BigQuery).
+        - R (Intermediate): Data visualization (ggplot2), data wrangling (tidyverse), and statistical modeling (tidymodels).
+      - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode
+      - Data Analysis & Visualization Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic)
+
+
+
+      
       
       
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Sports: Enthusiastic about running and yoga. I attend many running events and pratice the art of meditation in my free time.
-      - Film: I have a long-standing interest in cinema and films. In particular, sound design and cinematography
+      - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time.
+      - Film: I have a long-standing interest in cinema and films. I attend a film club every week where I enage in film analysis discussions.
 
 # Footer
 footer_show_references: true
