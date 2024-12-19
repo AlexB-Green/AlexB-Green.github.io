@@ -64,12 +64,12 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsbility in providing the best pratice for how we work with GCP. Some notable work examples: 
-          - Built a content clustering tool that utilise clustering algorithms to build a segmentation of viewers and TV shows for media panning purposes
+          My role evolved to having increased responsibility of projects taking leadership of the end-to-end process from delegation to project-management. I also gained more responsibility in providing best practice for how we work with Google Cloud Platform. Some notable work examples: 
+          - Built a content clustering tool that utilises clustering algorithms to build a segmentation of viewers and TV shows for media planning purposes
           - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
-          - Built a academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online traffic
+          - Built an academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online website traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client Addressable lift pilots, utilsing power models to create control group sizes and executing the experiment via A/B Testing
+          - Led client site lift pilots, utilsing power analysis models to create control group sizes and executing the experiment via A/B Testing methods
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -77,8 +77,8 @@ content:
         sub_title: Measurement Innovation Executive
         caption: March 2022 - March 2023
         description: |
-          My role expanded to having increased developer responsibility as well as led the training of new team members with the expansion of the team. Some notable work examples:
-          - Conducted a cross-business analysis into the impact of adverts volumes upon viewing which was vital for the launch of the new streaming service
+          My role expanded to having increased developer responsibility as well as the training of new team members following the expansion of the team. Some notable work examples:
+          - Conducted a cross-business domain analysis into the impact of advertisment volumes upon viewing which was vital for the launch of the new streaming service
           - Assisted the development of an advertising product that helps automate contextual targetting
           - Built forecasting models looking at viewing figures for new & returning shows
 
@@ -91,8 +91,8 @@ content:
         description: |
           My role focused on helping to develop tools for clients to help measure the effect of their TV ads, creating analytical reports utilising first party data to prove the value of TV as well as helping to guide third party providers in executing measurement pilots that prove the value that TV creates. Some notable work examples are: 
           - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows to help with show targetting
-          - Assisted building a tool that visualises advertiser impressions against a competitor set they decide upon
-          - Created automated pipelines for pulling in first-party data and querying the data
+          - Assisted building a tool that visualises advertiser impressions against a competitor set a client decides upon
+          - Created automated pipelines for pulling in first-party data, querying the data and outputting hte reuslts into a dashboard
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,7 +103,7 @@ content:
         title: York St John University
         caption: 2021-2024
         description: | # this will include new lines to allow paragraphs
-          BSc (Honours) Data Science : 1st Class Honours
+          BSc (Honours) Data Science : 1st Class Honours (Predicted)
 
       - layout: left
         title: Westcliff High School for Girls
@@ -141,8 +141,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Data Science some of my other interests and hobbies are:
-      - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time.
-      - Film: I have a long-standing interest in cinema and films. I attend a film club every week where I enage in film analysis discussions.
+      - Sports: Enthusiastic about running and yoga. I attend many running events and practice the art of meditation in my free time
+      - Film: I have a long-standing interest in cinema and films. I attend a film club every week where I engage in film analysis discussions
+      - Art: I enjoy being creative outside of work with a focus on portraiture and life drawing
 
 # Footer
 footer_show_references: true
