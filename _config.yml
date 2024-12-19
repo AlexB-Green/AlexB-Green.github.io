@@ -69,7 +69,7 @@ content:
           - Led client Geo experimentations which included planning of the experiments using power analysis techniques to execution of the experiments through synthetic control methods as well as presentations back to the client.
           - Built an academic-style research study utilising regression-based models to show how different TV dayparts carry more effectiveness at driving online website traffic
           - Assisted the build of a new first-party dataset within the business and led the analytical work that focused on use-case implementation of the dataset
-          - Led client site lift pilots, utilsing power analysis models to create control group sizes and executing the experiment via A/B Testing methods
+          - Led client site lift pilots, utilising power analysis models to create control group sizes and executing the experiment via A/B Testing methods
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
@@ -92,7 +92,7 @@ content:
           My role focused on helping to develop tools for clients to help measure the effect of their TV ads, creating analytical reports utilising first party data to prove the value of TV as well as helping to guide third party providers in executing measurement pilots that prove the value that TV creates. Some notable work examples are: 
           - Built a subtitle's tool that utilises NLP to look at words and their prevalence in TV shows to help with show targetting
           - Assisted building a tool that visualises advertiser impressions against a competitor set a client decides upon
-          - Created automated pipelines for pulling in first-party data, querying the data and outputting hte reuslts into a dashboard
+          - Created automated pipelines for pulling in first-party data, querying the data and outputting the results into a dashboard
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
