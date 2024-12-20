@@ -104,9 +104,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming Languages: 
-        - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
-        - SQL (Expert): Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
-        - R (Intermediate): Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
+        - **Python (Expert)**: Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
+        - **SQL (Expert)**: Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
+        - **R (Intermediate)**: Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
       - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode.
       - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
 
