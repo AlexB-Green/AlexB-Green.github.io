@@ -8,9 +8,9 @@ version: 2
 # Personal info
 name: Alex Green
 title: 
-Email: alex.byron.green@gmail.com
-Website: https://alexb-green.github.io/
-Phone: 07926681674
+email: alex.byron.green@gmail.com
+website: https://alexb-green.github.io/
+phone: 07926681674
 
 # Dark Mode (true/false/never)
 darkmode: false
