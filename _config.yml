@@ -134,7 +134,7 @@ content:
       - Programming Languages: 
         - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
         - SQL (Expert): Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
-        - R (Intermediate): Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modeling (tidymodels).
+        - R (Intermediate): Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
       - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode.
       - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
 
@@ -146,8 +146,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Data, some of my other interests and hobbies are:
-      - Sports: I’m an avid runner and yoga enthusiast. I regularly participate in running events and practice meditation to maintain focus and mindfulness.
+      Alongside my interests in data, some of my other interests and hobbies are:
+      - Sports: I’m an avid runner and yoga enthusiast. I regularly participate in running events and practise meditation to maintain focus and mindfulness.
       - Film: I have a deep appreciation for cinema and attend a weekly film club, where I engage in discussions and analysis of films from various genres and eras.
       - Art: In my spare time I enjoy portraiture and life drawing.
 footer_show_references: true
