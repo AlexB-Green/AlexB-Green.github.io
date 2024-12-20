@@ -65,7 +65,7 @@ content:
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
          I took on increased project responsibility, leading end-to-end processes and establishing best practices for using cloud platforms to deliver scalable data-driven solutions. Notable work examples include:
-          - Developed a machine learning-based content clustering tool to segment users and products, enabling targeted strategies and optimizing resource allocation.
+          - Developed a machine learning-based content clustering tool to segment users and products, enabling targeted strategies and optimising resource allocation.
           - Designed a regression-based research study to analyze the impact of time periods on web traffic, providing actionable insights to improve digital engagement strategies.
           - Led the analytical work for a new first-party dataset, implementing use cases to unlock revenue opportunities and enhance client reporting capabilities.
           - Executed experimental pilots for clients, applying power analysis to define control group sizes and conducting A/B tests to evaluate strategy effectiveness.
@@ -96,9 +96,9 @@ content:
         description: |
          In this role, I focused on developing analytical tools and processes to measure the impact of TV advertising on business outcomes for clients, leveraging first-party data and collaborating with third-party providers to deliver actionable insights. Notable work examples include:
           - Built automated data pipelines to extract, query, and visualize first-party data, streamlining reporting processes and enhancing operational efficiency.
-          - Created a visualization tool to compare advertiser performance against client-defined benchmarks, supporting strategic planning and competitive positioning.
+          - Created a visualisation tool to compare advertiser performance against client-defined benchmarks, supporting strategic planning and competitive positioning.
           - Collaborated with third-party providers on measurement pilots, applying statistical methods to quantify the effectiveness of advertising strategies and assess return on investment.
-          - Developed a Natural Language Processing tool to analyze content and optimize audience segmentation, providing insights for targeted marketing strategies.
+          - Developed a Natural Language Processing tool to analyze content and optimise audience segmentation, providing insights for targeted marketing strategies.
 
 
   - title: Education # Title for the section
@@ -134,10 +134,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Programming Languages: 
         - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
-        - SQL (Expert): Advanced querying, optimization, and database management (PostgreSQL, BigQuery).
-        - R (Intermediate): Data visualization (ggplot2), data wrangling (tidyverse), and statistical modeling (tidymodels).
+        - SQL (Expert): Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
+        - R (Intermediate): Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modeling (tidymodels).
       - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode.
-      - Data Analysis & Visualization Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
+      - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
 
 
 
