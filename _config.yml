@@ -125,9 +125,8 @@ content:
         caption: 2013-2018
         description: | # this will include new lines to allow paragraphs
           - GCSE: 3 x Grade A*
-          - GCSE: 6 x Grade 9
-          - GCSE: 2 x Grade 8
-          (includes Mathematics and English Language)
+          - GCSE: 6 x Grade 9 (includes Mathematics)
+          - GCSE: 2 x Grade 8 (includes English Language)
 
 
 
