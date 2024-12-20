@@ -107,7 +107,7 @@ content:
 
       - layout: left
         title: York St John University
-        caption: 2021-2024
+        caption: Sep 2021- March 2025
         description: | # this will include new lines to allow paragraphs
           BSc (Honours) Data Science : 1st Class Honours (Predicted)
 
@@ -116,7 +116,7 @@ content:
         caption: 2018-2020
         description: | # this will include new lines to allow paragraphs
           - A-Level Maths : A*
-          - A-Level Further Maths : A
+          - A-Level Further Maths : B 
           - A-Level Physics : B 
           - A-Level Chemistry : C 
 
@@ -124,7 +124,7 @@ content:
         title: Eastwood Academy
         caption: 2013-2018
         description: | # this will include new lines to allow paragraphs
-          GCSEs - 6 x A**(Grade 9s), 5 x A*(Grade 8s) including Maths & English Language
+          GCSEs - 3 x Grade A/*s, 6 x Grade 9s, 2 x Grade 8s, including Maths & English Language
 
 
 
