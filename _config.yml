@@ -99,6 +99,17 @@ content:
           - Collaborated with third-party providers on measurement pilots, applying statistical methods to quantify the effectiveness of advertising strategies and assess return on investment.
           - Developed a natural language processing tool to analyse content and optimise audience segmentation, providing insights for targeted marketing strategies.
 
+          
+  - title: Technical Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Programming Languages: 
+        - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
+        - SQL (Expert): Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
+        - R (Intermediate): Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
+      - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode.
+      - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,21 +140,6 @@ content:
           - GCSE: 2 x Grade 8 (includes English Language)
 
 
-
-  - title: Technical Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Programming Languages: 
-        - Python (Expert): Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
-        - SQL (Expert): Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
-        - R (Intermediate): Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
-      - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode.
-      - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
-
-
-
-      
-      
       
   - title: A Little More About Me
     layout: text
