@@ -49,8 +49,7 @@ linkedin_username: alex-green-094867209
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alex and I'm currently a Senior Measurement Innovation Executive at ITV. I have a strong foundation in data analytics, data science, statistical modelling and client consultation paired with advanced coding capabilities. My enthusiasm for solving complex problems, coupled with my diligence and collaborative mindset, drives me to develop data-driven insights that inform business decision-making and manage risk effectively. I am committed to continuous learning and always strive to build upon my skillset to tackle new challenges and deliver meaningful results.
-
+  Hi, my name is Alex and I’m currently a Senior Measurement Innovation Executive - Data Scientist at ITV. I have a strong foundation in data analytics, data science, statistical modelling and client consultation paired with advanced coding capabilities. I am driven by solving complex problems with enthusiasm, working diligently, and collaboratively to provide data-driven insights to business decisions and manage risk effectively. I am committed to continuous learning, and I have always striven to build upon my current skill set by embracing new challenges and delivering meaningful results.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -64,7 +63,7 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-         I took on increased project responsibility, leading end-to-end processes and establishing best practices for using cloud platforms to deliver scalable data-driven solutions. Notable work examples include:
+         I assumed a more project governance function, managing more project tasks and project teams in implementing and integrating cloud-based data-driven solutions. Notable work examples include:
           - Developed a machine learning-based content clustering tool to segment users and products, enabling targeted strategies and optimising resource allocation.
           - Designed a regression-based research study to analyse the impact of time periods on web traffic, providing actionable insights to improve digital engagement strategies.
           - Led the analytical work for a new first-party dataset, implementing use cases to unlock revenue opportunities and enhance client reporting capabilities.
@@ -78,12 +77,14 @@ content:
         sub_title: Measurement Innovation Executive - Data Science
         caption: March 2022 - March 2023
         description: |
-         My responsibilities expanded to include managing client relationships and developing new analytical tools to improve marketing strategy evaluation and decision-making processes. Notable work examples include:
-          - Conducted cross-domain analysis of advertising volumes and audience engagement, providing risk-based assessments critical to launching new services.
-          - Designed forecasting models using regression analysis to predict engagement metrics for content, enhancing decision-making and mitigating uncertainty.
-          - Assisted in developing an automation tool for contextual targeting, improving advertising efficiency and contributing to cost control measures.
-          - Led experimental studies, utilising power analysis and synthetic control methods, to evaluate the impact of marketing strategies and generate data-driven client insights.
-          - Trained new team members, streamlining onboarding processes and ensuring consistency in analytical methods across the team.
+         My responsibilities increased to include the management of client relationships as well as the creation of new analytical tools for enhancing the analysis of marketing strategies and decisions. Notable work examples include: 
+          - Carried out cross-domain analysis of advertising volumes and audience engagement, this was important in assessing risk for new services. 
+          - Developed forecasting models based on regression analysis to forecast engagement metrics for content to support decision making and reduce risks. 
+          - Helped in the creation of an automation tool for contextual targeting which enhanced the efficiency of advertising and also formed part of cost savings measures. 
+          - Conducted experimental studies, using power analysis and synthetic control approach to assess the effects of marketing interventions to derive insights for the clients. 
+          - Trained new team members, and standardized the onboarding process as well as the analysis approach within the team. 
+
+
 
 
 
@@ -94,11 +95,12 @@ content:
         sub_title: Data Science Apprentice
         caption: June 2021 - March 2022
         description: |
-         In this role, I focused on developing analytical tools and processes to measure the impact of TV advertising on business outcomes for clients, leveraging first-party data and collaborating with third-party providers to deliver actionable insights. Notable work examples include:
-          - Built automated data pipelines to extract, query, and visualise first-party data, streamlining reporting processes and enhancing operational efficiency.
-          - Created a visualisation tool to compare advertiser performance against client-defined benchmarks, supporting strategic planning and competitive positioning.
-          - Collaborated with third-party providers on measurement pilots, applying statistical methods to quantify the effectiveness of advertising strategies and assess return on investment.
-          - Developed a natural language processing tool to analyse content and optimise audience segmentation, providing insights for targeted marketing strategies.
+         I worked on enhancing the analytical skills, tools and processes to gauge the effectiveness of TV advertising on business results for the clients and incorporating the use of first-party data and third-party data providers. Notable work examples include:
+          - Developed data pipelines that enabled me to collect, search and display first party data while improving the reporting processes and the efficiency of the operations.
+          - Developed a dashboard to help compare the performance of the advertisers to that of the client’s benchmarks, to facilitate planning and competition strategies.
+          - Worked with third party partners in measurement pilots, using statistics to evaluate the performance of the advertising approaches and the ROI.
+          - Developed a NLP tool for the analysis of content and for the identification of the best audience segmentation in order to identify the best marketing strategies.
+
 
           
   - title: Technical Skills
@@ -146,8 +148,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in data, some of my other interests and hobbies are:
-      - Sports: I’m an avid runner and yoga enthusiast. I regularly participate in running events and practise meditation to maintain focus and mindfulness.
-      - Film: I have a deep appreciation for cinema and attend a weekly film club, where I engage in discussions and analysis of films from various genres and eras.
+      - Sports: I’m an avid runner and yoga enthusiast.
+      - Film: I have a deep appreciation for cinema and attend a weekly film club.
       - Art: In my spare time I enjoy portraiture and life drawing.
 footer_show_references: true
 # references_title: References on request (Override references text)
