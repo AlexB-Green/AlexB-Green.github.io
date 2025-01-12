@@ -110,7 +110,9 @@ content:
         - **Python (Expert)**: Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
         - **SQL (Expert)**: Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
         - **R (Intermediate)**: Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
-      - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode.
+      - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode
+      - Code Deployment : Github
+      - ETL: Airflow
       - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
 
 
