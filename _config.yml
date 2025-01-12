@@ -112,7 +112,7 @@ content:
         - **R (Intermediate)**: Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
       - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode
       - Code Deployment : Github
-      - ETL: Airflow
+      - ETL: Airflow, Google Cloud Composer
       - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
       - Cyber Security (Basic Knowledge)
 
