@@ -75,9 +75,9 @@ content:
         sub_title: Data Scientist
         caption: April 2025 - present
         description: |
-          - Part of a newly established team focused on identifying and addressing barriers to economic growth through data-informed insights
-          - Developed analytical solutions to support project monitoring, working cross-functionally with teams across the Civil Service
-          - Strengthened communication skills by engaging with stakeholders, understanding their needs, and actioning feedback effectively
+          - Part of a newly established team focused on identifying and addressing barriers to economic growth through data-informed insights.
+          - Developed analytical solutions to support project monitoring, working cross-functionally with teams across the Civil Service.
+          - Strengthened communication skills by engaging with stakeholders, understanding their needs, and actioning feedback effectively.
           
       
         
@@ -91,11 +91,11 @@ content:
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-          - Led projects addressing real-world challenges in TV measurement, delivering practical solutions through analysis and collaboration
-          - Took ownership of end-to-end project delivery, working with cross-functional teams and external partners
-          - Presented insights to non-technical audiences, refining clear and purposeful communication
-          - Supported and mentored new team members, contributing to team learning and development
-          - Strengthened creative problem-solving, resilience, and stakeholder management skills
+          - Led projects addressing real-world challenges in TV measurement, delivering practical solutions through analysis and collaboration.
+          - Took ownership of end-to-end project delivery, working with cross-functional teams and external partners.
+          - Presented insights to non-technical audiences, refining clear and purposeful communication.
+          - Supported and mentored new team members, contributing to team learning and development.
+          - Strengthened creative problem-solving, resilience, and stakeholder management skills.
 
 
       - layout: left
@@ -105,10 +105,10 @@ content:
         sub_title: Measurement Innovation Executive - Data Science
         caption: March 2022 - March 2023
         description: |      
-          - Played a key role in developing tools and models that linked advertising exposure to business outcomes
-          - Worked directly with clients to understand their needs and deliver tailored data solutions
-          - Gained confidence in presenting team outputs to both internal and external stakeholders
-          - Took on additional responsibility in coordinating project timelines and deliverables
+          - Played a key role in developing tools and models that linked advertising exposure to business outcomes.
+          - Worked directly with clients to understand their needs and deliver tailored data solutions.
+          - Gained confidence in presenting team outputs to both internal and external stakeholders.
+          - Took on additional responsibility in coordinating project timelines and deliverables.
 
 
 
@@ -121,20 +121,20 @@ content:
         sub_title: Data Science Apprentice
         caption: June 2021 - March 2022
         description: |
-          - Supported the team in developing data dashboards and insights for advertisers on their TV media activity
-          - Adapted quickly to new tools and challenges while working with diverse, cross-functional teams
-          - Built strong foundations in analytical thinking, collaboration, and professional communication
+          - Supported the team in developing data dashboards and insights for advertisers on their TV media activity.
+          - Adapted quickly to new tools and challenges while working with diverse, cross-functional teams.
+          - Built strong foundations in analytical thinking, collaboration, and professional communication.
 
 
           
   - title: Transferable Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Creative Problem-Solving – Take a thoughtful and adaptable approach to challenges, drawing on both analytical and personal experience
-      - Empathy & Advocacy – Developed through first-hand caring responsibilities and lived experience, fostering a person-centred perspective
-      - Communication – Skilled at explaining complex ideas to diverse audiences, including stakeholders and non-technical groups
-      - Collaboration – Strong team player with leadership experience in cross-functional projects across sectors
-      - Organisation & Resilience – Proven ability to balance high workloads, tight deadlines, and personal responsibilities with consistency and focus
+      - Creative Problem-Solving – Take a thoughtful and adaptable approach to challenges, drawing on both analytical and personal experience.
+      - Empathy & Advocacy – Developed through first-hand caring responsibilities and lived experience, fostering a person-centred perspective.
+      - Communication – Skilled at explaining complex ideas to diverse audiences, including stakeholders and non-technical groups.
+      - Collaboration – Strong team player with leadership experience in cross-functional projects across sectors.
+      - Organisation & Resilience – Proven ability to balance high workloads, tight deadlines, and personal responsibilities with consistency and focus.
 
 
   - title: Education # Title for the section
@@ -169,8 +169,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Running & Yoga - Passionate about physical wellbeing
-      - Film & Literature - Regular member of a film club and enjoy reading
+      - Running & Yoga - Passionate about physical wellbeing.
+      - Film & Literature - Regular member of a film club and enjoy reading.
 footer_show_references: true
 # references_title: References on request (Override references text)
 
