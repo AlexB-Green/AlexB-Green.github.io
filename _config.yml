@@ -48,7 +48,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a highly motivated individual currently working in a data science role at HM Treasury, with a strong background in problem-solving, analytical thinking, and communication developed across both public and media sectors. However, my long-standing role as a support carer for my sister has inspired a deep passion for pursuing a more person-centred and impactful career in occupational therapy. I have witnessed first-hand the powerful role occupational therapists play in improving independence and quality of life. I am now focused on developing the practical and theoretical foundation needed to contribute meaningfully to this field.
+  I am a highly motivated individual currently working in a data science role in London, with a strong background in problem-solving, analytical thinking, and communication developed across both public and media sectors. However, my long-standing role as a support carer for my sister has inspired a deep passion for pursuing a more person-centred and impactful career in occupational therapy. I have witnessed first-hand the powerful role occupational therapists play in improving independence and quality of life. I am now focused on developing the practical and theoretical foundation needed to contribute meaningfully to this field.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -61,10 +61,12 @@ content:
         sub_title: Personal role
         caption: ongoing
         description: |
-          - Provide ongoing care for a family member with degenerative physical and mental disabilties
-          - Experienced in using and maintaining assistive equipment, including ceiling hoists and adapted utensils
-          - Developed strong skills in emotional support, advocacy, and collaborative care with health professionals
-          - Completed a Level 3 CPD-accredited Occupational Therapy course to build foundational knowledge
+          - Provide ongoing care for a family member with degenerative physical conditions as well as mental disabilities.
+          - Experienced in using and maintaining assistive equipment, including ceiling hoists, manual hoist and an electric wheelchair.
+          - Developed strong skills in emotional support, advocacy, and collaborative care with health professionals.
+          - Completed a Level 3 CPD-accredited Occupational Therapy course to build foundational knowledge.
+          - Completed Epilepsy Awareness Level 2 certificate.
+          - Completed Moving Handling Level 2 certificate.
 
       - layout: left
         title: HM Treasury
