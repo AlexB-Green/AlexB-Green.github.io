@@ -49,25 +49,52 @@ linkedin_username: alex-green-094867209
 # about_title: About Me
 about_profile_image: images/aleximage.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Alex and I’m currently a Senior Measurement Innovation Executive - Data Scientist at ITV. I have a strong foundation in data analytics, data science, statistical modelling and client consultation paired with advanced coding capabilities. I am driven by solving complex problems with enthusiasm, working diligently, and collaboratively to provide data-driven insights to business decisions and manage risk effectively. I am committed to continuous learning, and I have always striven to build upon my current skill set by embracing new challenges and delivering meaningful results.
+  I am a highly motivated individual currently working in a data science role at HM Treasury, with a strong background in problem-solving, analytical thinking, and communication developed across both public and media sectors. However, my long-standing role as a support carer for my sister has inspired a deep passion for pursuing a more person-centred and impactful career in occupational therapy. I have witnessed first-hand the powerful role occupational therapists play in improving independence and quality of life. I am now focused on developing the practical and theoretical foundation needed to contribute meaningfully to this field.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        title: Secondary Carer for Disabled Family Member
+        link:
+        # link_text: boringcompany.com
+        sub_title: Personal role
+        caption: ongoing
+        description: |
+          - Provide ongoing care for a family member with degenerative physical and mental disabilties
+          - Experienced in using and maintaining assistive equipment, including ceiling hoists and adapted utensils
+          - Developed strong skills in emotional support, advocacy, and collaborative care with health professionals
+          - Completed a Level 3 CPD-accredited Occupational Therapy course to build foundational knowledge
+
+      - layout: left
+        title: HM Treasury
+        link: https://www.gov.uk/government/organisations/hm-treasury
+        # link_text: boringcompany.com
+        sub_title: Data Scientist
+        caption: April 2025 - present
+        description: |
+          - Part of a newly established team focused on identifying and addressing barriers to economic growth through data-informed insights
+          - Developed analytical solutions to support project monitoring, working cross-functionally with teams across the Civil Service
+          - Strengthened communication skills by engaging with stakeholders, understanding their needs, and actioning feedback effectively
+          
+      
+        
+
       - layout: left
         title: ITV
         link: https://www.itvplc.com/
         # link_text: boringcompany.com
         sub_title: Senior Measurement Innovation Executive - Data Science
-        caption: March 2023 - present
+        caption: March 2023 - April 2025
         quote: >
           People find Alex to be a great collaborator; infectious with his enthusiasm and curiosity, someone who is full of energy and drive, taking the initiative and proactively offering help and support to others when needed.
         description: |
-         I assumed a more project governance function, managing more project tasks and project teams in implementing and integrating cloud-based data-driven solutions. Notable work examples include:
-          - Developed a machine learning-based content clustering tool to segment users and products, enabling targeted strategies and optimising resource allocation.
-          - Designed a regression-based research study to analyse the impact of time periods on web traffic, providing actionable insights to improve digital engagement strategies.
-          - Led the analytical work for a new first-party dataset, implementing use cases to unlock revenue opportunities and enhance client reporting capabilities.
-          - Executed experimental pilots for clients, applying power analysis to define control group sizes and conducting A/B tests to evaluate strategy effectiveness.
+          - Led projects addressing real-world challenges in TV measurement, delivering practical solutions through analysis and collaboration
+          - Took ownership of end-to-end project delivery, working with cross-functional teams and external partners
+          - Presented insights to non-technical audiences, refining clear and purposeful communication
+          - Supported and mentored new team members, contributing to team learning and development
+          - Strengthened creative problem-solving, resilience, and stakeholder management skills
 
 
       - layout: left
@@ -76,13 +103,11 @@ content:
         # link_text: boringcompany.com
         sub_title: Measurement Innovation Executive - Data Science
         caption: March 2022 - March 2023
-        description: |
-         My responsibilities increased to include the management of client relationships as well as the creation of new analytical tools for enhancing the analysis of marketing strategies and decisions. Notable work examples include: 
-          - Carried out cross-domain analysis of advertising volumes and audience engagement, this was important in assessing risk for new services. 
-          - Developed forecasting models based on regression analysis to forecast engagement metrics for content to support decision making and reduce risks. 
-          - Helped in the creation of an automation tool for contextual targeting which enhanced the efficiency of advertising and also formed part of cost savings measures. 
-          - Conducted experimental studies, using power analysis and synthetic control approach to assess the effects of marketing interventions to derive insights for the clients. 
-          - Trained new team members, and standardized the onboarding process as well as the analysis approach within the team. 
+        description: |      
+          - Played a key role in developing tools and models that linked advertising exposure to business outcomes
+          - Worked directly with clients to understand their needs and deliver tailored data solutions
+          - Gained confidence in presenting team outputs to both internal and external stakeholders
+          - Took on additional responsibility in coordinating project timelines and deliverables
 
 
 
@@ -95,25 +120,20 @@ content:
         sub_title: Data Science Apprentice
         caption: June 2021 - March 2022
         description: |
-         I worked on enhancing the analytical skills, tools and processes to gauge the effectiveness of TV advertising on business results for the clients and incorporating the use of first-party data and third-party data providers. Notable work examples include:
-          - Developed data pipelines that enabled me to collect, search and display first party data while improving the reporting processes and the efficiency of the operations.
-          - Developed a dashboard to help compare the performance of the advertisers to that of the client’s benchmarks, to facilitate planning and competition strategies.
-          - Worked with third party partners in measurement pilots, using statistics to evaluate the performance of the advertising approaches and the ROI.
-          - Developed a NLP tool for the analysis of content and for the identification of the best audience segmentation in order to identify the best marketing strategies.
+          - Supported the team in developing data dashboards and insights for advertisers on their TV media activity
+          - Adapted quickly to new tools and challenges while working with diverse, cross-functional teams
+          - Built strong foundations in analytical thinking, collaboration, and professional communication
 
 
           
-  - title: Technical Skills
+  - title: Transferable Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages: 
-        - **Python (Expert)**: Proficient in libraries like pandas, scikit-learn; experience with building end-to-end machine learning pipelines.
-        - **SQL (Expert)**: Advanced querying, optimisation, and database management (PostgreSQL, BigQuery).
-        - **R (Intermediate)**: Data visualisation (ggplot2), data wrangling (tidyverse), and statistical modelling (tidymodels).
-      - Cloud Platforms and Tools: Google Cloud Platform, AWS, Databricks, VSCode
-      - Code Deployment : Github
-      - Data Analysis & Visualisation Tools: Excel (Intermediate), Looker Studio (Intermediate), Tableau (Basic).
-      - Cyber Security (Basic Knowledge)
+      - Creative Problem-Solving – Take a thoughtful and adaptable approach to challenges, drawing on both analytical and personal experience
+      - Empathy & Advocacy – Developed through first-hand caring responsibilities and lived experience, fostering a person-centred perspective
+      - Communication – Skilled at explaining complex ideas to diverse audiences, including stakeholders and non-technical groups
+      - Collaboration – Strong team player with leadership experience in cross-functional projects across sectors
+      - Organisation & Resilience – Proven ability to balance high workloads, tight deadlines, and personal responsibilities with consistency and focus
 
 
   - title: Education # Title for the section
@@ -123,9 +143,9 @@ content:
 
       - layout: left
         title: York St John University
-        caption: September 2021- March 2025
+        caption: September 2021- April 2025
         description: | # this will include new lines to allow paragraphs
-          BSc (Honours) Data Science : 1st Class Honours (Predicted)
+          BSc (Honours) Data Science : 1st Class Honours
 
       - layout: left
         title: Westcliff High School for Girls
@@ -134,7 +154,6 @@ content:
           - A-Level Maths : A*
           - A-Level Further Maths : B 
           - A-Level Physics : B 
-          - A-Level Chemistry : C 
 
       - layout: left
         title: Eastwood Academy
@@ -149,10 +168,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in data, some of my other interests and hobbies are:
-      - Sports: I’m an avid runner and yoga enthusiast.
-      - Film: I have a deep appreciation for cinema and attend a weekly film club.
-      - Art: In my spare time I enjoy portraiture and life drawing.
+      - Running & Yoga - Passionate about physical wellbeing
+      - Film & Literature - Regular member of a film club and enjoy reading
 footer_show_references: true
 # references_title: References on request (Override references text)
 
