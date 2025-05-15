@@ -9,7 +9,6 @@ version: 2
 name: Alex Green
 title: 
 email: alex.byron.green@gmail.com
-website: https://alexb-green.github.io/
 phone: 07926681674
 
 # Dark Mode (true/false/never)
@@ -17,13 +16,13 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  alexb-green
+#github_username:  alexb-green
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: alex-green-094867209
+#linkedin_username: alex-green-094867209
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
